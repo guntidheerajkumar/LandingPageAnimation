@@ -11,3 +11,7 @@ sView.StartAnimationWithCompletion(() => {
 	Debug.WriteLine("Completed");
 });
 ```
+
+###Output
+
+![](https://github.com/guntidheerajkumar/LandingPageAnimation/blob/master/LandingPageOutput.gif)
